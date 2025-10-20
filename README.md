@@ -18,6 +18,6 @@ With our To-Do App you are able to:
 ## Author
  👩‍💻 Paula Alcantara
 
-GitHub: [github.com/alcantara-paula](https://github.com/alcantara-paula)
+GitHub: [github.com/alcantarapaula](https://github.com/alcantarapaula)
 
-LinkedIn: [linkedin.com/in/alcantara-paula/](https://www.linkedin.com/in/alcantara-paula/)
+LinkedIn: [linkedin.com/in/alcantarapaula/](https://www.linkedin.com/in/alcantarapaula/)
